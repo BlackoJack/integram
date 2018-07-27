@@ -4,7 +4,7 @@ package feedback
 
 import (
 	"fmt"
-	"github.com/requilence/integram"
+	"github.com/BlackoJack/integram"
 	"time"
 
 	"github.com/kelseyhightower/envconfig"
